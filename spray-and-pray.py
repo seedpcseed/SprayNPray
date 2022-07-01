@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env /opt/conda/envs/sprayandpray/bin/python
 from collections import defaultdict
 import re
 import os
